@@ -35,7 +35,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "@jspoe-forks/directory-colorfy-jspoe": "^2.2.1",
+    "directory-colorfy-jspoe": "^2.2.1",
     "directory-encoder": "^0.9.2",
     "fg-loadcss": "^2.1.0",
     "fs-extra": "^7.0.1",
