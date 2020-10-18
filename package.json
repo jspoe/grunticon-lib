@@ -1,19 +1,19 @@
 {
-  "name": "grunticon-lib",
-  "description": "Stand-alone library for Grunticon",
+  "name": "grunticon-lib-jspoe",
+  "description": "Stand-alone library for Grunticon - Forked to add a new directory-colorfy option",
   "version": "1.2.3",
-  "homepage": "https://github.com/filamentgroup/grunticon-lib",
+  "homepage": "https://github.com/jspoe/grunticon-lib",
   "author": {
-    "email": "hello@filamentgroup.com",
-    "name": "Scott Jehl, Jeffrey Lembeck, Zach Leatherman & Filament Group",
-    "url": "http://www.filamentgroup.com"
+    "email": "jspoelstra@hotmail.com",
+    "name": "Scott Jehl, Jeffrey Lembeck, Zach Leatherman & Filament Group - Forked by Jspoe",
+    "url": "https://github.com/jspoe/grunticon-lib"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filamentgroup/grunticon-lib"
+    "url": "https://github.com/jspoe/grunticon-lib"
   },
   "bugs": {
-    "url": "https://github.com/filamentgroup/grunticon-lib/issues"
+    "url": "https://github.com/jspoe/grunticon-lib/issues"
   },
   "license": "MIT",
   "main": "lib/grunticon-lib",
@@ -35,7 +35,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "directory-colorfy": "^2.2.1",
+    "@jspoe-forks/directory-colorfy-jspoe": "^2.2.1",
     "directory-encoder": "^0.9.2",
     "fg-loadcss": "^2.1.0",
     "fs-extra": "^7.0.1",

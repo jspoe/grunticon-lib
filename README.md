@@ -342,6 +342,12 @@ Default value: `true`
 
 Whether or not extra information will be logged to the console.
 
+#### options.noColorFiles
+Type: `Boolean`
+Default value: `false`
+
+Whether the files have nocolor options inside the filename.
+
 ### Grunticon Loader Methods
 
 With `enhanceSVG` turned on, the Grunticon loader has a few exposed methods and attributes on the `grunticon` object that you can use:
