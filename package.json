@@ -1,7 +1,7 @@
 {
   "name": "grunticon-lib-jspoe",
   "description": "Stand-alone library for Grunticon - Forked to add a new directory-colorfy option",
-  "version": "1.2.3",
+  "version": "1.3.3",
   "homepage": "https://github.com/jspoe/grunticon-lib",
   "author": {
     "email": "jspoelstra@hotmail.com",
